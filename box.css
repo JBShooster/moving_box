@@ -1,0 +1,9 @@
+#dragster{
+	border:1px solid black;
+	width: 50px;
+	height: 50px;
+	background-color:blue;
+	position: absolute;
+	top: 0px;
+	left:0px;
+}
